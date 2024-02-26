@@ -36,7 +36,6 @@ body {
 }
 
 .generate-btns {
-    /* border: 1px solid; */
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -54,7 +53,7 @@ body {
 }
 
 .btns .hx-code {
-    border: 1px solid #3d3deb;
+    border: 3px solid #3d3deb;
     width: 220px;
     height: 54px;
     display: flex;
